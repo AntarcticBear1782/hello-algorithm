@@ -1,5 +1,7 @@
 ## 简介
 
+解压密码为：【GRptBtsm】或【elRMzGlY】
+
 English version repo and Gitbook is on [english branch](https://github.com/geekxh/hello-algorithm/tree/english)
 
 > ### **小浩算法是一套针对小白的完整的算法训练流程！** 
